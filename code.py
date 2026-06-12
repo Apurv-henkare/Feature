@@ -27,7 +27,7 @@ class Counter:
 
 # 6. Run it all
 print(greet(name))
-print(f"Squares: feature4 {squares}")
+print(f"Squares feature3: {squares}")
 c = Counter()
 print(f"Counter: {c.increment()}, {c.increment()}, {c.increment()}")
 print(f"Person dict: {person}")
