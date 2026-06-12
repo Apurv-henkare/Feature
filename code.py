@@ -12,7 +12,11 @@ person = {"name": name, "age": age}
 
 # 3. Function with default argument
 def greet(user, greeting="Hello"):
+<<<<<<< HEAD
     return f"{greeting}, {user}! You have feature33 {len(fruits)} fruits."
+=======
+    return f"{greeting}, {user}! You have feature4 {len(fruits)} fruits."
+>>>>>>> main
 
 # 4. List comprehension
 squares = [x ** 2 for x in range(1, 6)]
