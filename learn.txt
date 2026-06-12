@@ -1,1 +1,1 @@
-main learn.txt
+main feature2 learn.txt
