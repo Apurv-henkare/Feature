@@ -12,7 +12,7 @@ person = {"name": name, "age": age}
 
 # 3. Function with default argument
 def greet(user, greeting="Hello"):
-    return f"{greeting}, {user}! You have feature4 {len(fruits)} fruits."
+    return f"{greeting}, {user}! You have feature44 {len(fruits)} fruits."
 
 # 4. List comprehension
 squares = [x ** 2 for x in range(1, 6)]
@@ -27,7 +27,7 @@ class Counter:
 
 # 6. Run it all
 print(greet(name))
-print(f"Squares feature3: {squares}")
+print(f"Squares feature44: {squares}")
 c = Counter()
 print(f"Counter: {c.increment()}, {c.increment()}, {c.increment()}")
 print(f"Person dict: {person}")
